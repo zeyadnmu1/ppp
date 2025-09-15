@@ -1,0 +1,5 @@
+track_id,track_name,artist_names,artist_ids,tempo,valence,energy,danceability,loudness,acousticness,popularity,explicit,mood
+t1,Sunrise,Artist A,a1,120,0.8,0.7,0.72,-7.0,0.1,60,0,happy
+t2,Deep Focus,Artist B,a2,95,0.35,0.3,0.45,-12.0,0.65,40,0,sad
+t3,Gym Hype,Artist C,a3,150,0.55,0.9,0.8,-6.0,0.05,75,0,energetic
+t4,Lo-Fi Chill,Artist D,a4,85,0.45,0.35,0.6,-11.0,0.7,50,0,calm
